@@ -1,0 +1,104 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background-color: #e9edee;
+}
+main {
+  margin-inline: 40px;
+}
+nav > div > p {
+  margin-left: 17px;
+}
+h1 {
+  text-align: center;
+  background-color: #f56600;
+  color: white;
+  padding-block: 10px;
+}
+h2 {
+  padding-left: 25px;
+  padding-top: 15px;
+}
+p > a {
+  color: white;
+  text-decoration: none;
+}
+.bgblack {
+  background-color: #222f3f;
+}
+.bgblack3 {
+  background-color: #364759;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 20px;
+  color: white;
+}
+.bgblack2 {
+  background-color: #364759;
+  color: white;
+}
+.inl {
+  display: inline-block;
+  display: flex;
+}
+
+.img {
+  width: 100%;
+}
+.perfectgift {
+  background-color: white;
+}
+.prova3 {
+  text-align: center;
+  margin-top: 30px;
+}
+.img1 {
+  max-width: 20%;
+  height: auto;
+  padding: 28px;
+  border-radius: 15%;
+  box-shadow: 3px 3px 1px rgba(204, 203, 203, 0.239);
+}
+.img2 {
+  width: 100%;
+  text-align: center;
+}
+.txc-white {
+  text-align: center;
+  color: white;
+}
+.marginend {
+  padding: 30px;
+  background-color: #222f3f;
+}
+
+.title {
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 32px;
+  margin-bottom: 0px;
+}
+.title2 {
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+.p-img {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: end;
+}
+.p-img2 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+.link {
+  color: white;
+}
